@@ -1,0 +1,20 @@
+
+# Arquivo de configuração do games-essentials, feito com carinho
+
+
+# Define se o plugin vai enviar todas as atualizações do plugin.
+
+debug: true
+
+# Define se o plugin vai usar ou não MySQL.
+
+use-mysql: false
+
+# Dados para conectar ao MySQL, se você não quer usar MySQL, deixe em branco.
+
+MySQL:
+  host:
+  db:
+  port:
+  user:
+  pass:

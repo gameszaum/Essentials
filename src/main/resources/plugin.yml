@@ -1,0 +1,5 @@
+name: games-essentials
+version: ${project.version}
+main: com.gameszaum.essentials.Essentials
+depend: [games-core]
+authors: [gameszaum]

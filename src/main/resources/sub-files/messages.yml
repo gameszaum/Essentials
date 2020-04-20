@@ -1,0 +1,5 @@
+
+# Arquivo de configuração das mensagens do plugin.
+
+messages:
+  player-join: '&7O jogador &f%player% &7entrou no servidor.'
